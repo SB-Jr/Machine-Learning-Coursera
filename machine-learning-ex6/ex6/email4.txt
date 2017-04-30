@@ -1,0 +1,70 @@
+<body><!-- X-Notifications: 1:08fd65a1af800000 --><div st=
+yle=3D"border-radius:5px;border:solid 1px #dfdfdf;font-family:Arial;word-wr=
+ap:break-word;width:670px"><table cellpadding=3D0 cellspacing=3D0 style=3D"=
+background-color:#ededed; border-radius:5px 5px 0 0;width:670px"><tr><td><d=
+iv style=3D"padding:30px 30px 0;font-size:20px">M=C3=A1rcio Oliveira shared=
+ a <a href=3D"https://plus.google.com/_/notifications/emlink?emr=3D11563401=
+428738077822&amp;emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&amp;path=3D%2F1003535920=
+54013993902%2Fposts%2F2P2tQcjafKs&amp;dt=3D1493521648425&amp;ub=3DSQUARE_SU=
+BSCRIPTION" style=3D"color:#3366CC;text-decoration:none">post</a> with <a h=
+ref=3D"https://plus.google.com/_/notifications/emlink?emr=3D115634014287380=
+77822&emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&path=3D%2Fcommunities%2F10976610051=
+4206800627&dt=3D1493521648425&ub=3DSQUARE_SUBSCRIPTION" style=3D"color:#336=
+6CC;text-decoration:none">Udacity&#39;s Android Developer Nanodegree</a><di=
+v style=3D"margin-top:20px;width:0;height:0; border-bottom:10px solid #fff;=
+ border-left:10px solid transparent; border-right:10px solid transparent"><=
+/div></div></td><td style=3D"vertical-align:middle;text-align:right;padding=
+-right:30px"><img src=3D"https://ssl.gstatic.com/images/branding/google_plu=
+s/1x/gplus_word_118x36dp.png" /></td></tr></table><div style=3D"font-size:1=
+4px;line-height:18px;background-color:#fff;"><div style=3D"padding:30px 40p=
+x 40px"><table cellpadding=3D0 cellspacing=3D0><tr><td style=3D"padding-rig=
+ht:15px;vertical-align:top"><a href=3D"https://plus.google.com/_/notificati=
+ons/emlink?emr=3D11563401428738077822&emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&pat=
+h=3D%2F100353592054013993902&dt=3D1493521648425&ub=3DSQUARE_SUBSCRIPTION"><=
+img width=3D"75" height=3D"75" style=3D"border:solid 1px #cccccc;" src=3D"h=
+ttps://lh4.googleusercontent.com/-6X-BznofIK8/AAAAAAAAAAI/AAAAAAAApo4/lyV8w=
+muJIw0/s75-c-k-a-no/photo.jpg" /></a></td><td style=3D"width:578px;color:#3=
+33;font:13px Arial;vertical-align:top"><div style=3D"padding-bottom:10px;">=
+<strong>M=C3=A1rcio Oliveira</strong>:</div><div style=3D"padding-bottom:10=
+px">Hi guys, I don&#39;t know why but the Android Emulator became extremell=
+y unresponsible these days in my laptop (for example, Android OS keep issui=
+ng &quot;Process System isn&#39;t responding&quot; messages and UI keeps fr=
+eezing for seconds).<br><br>My last emulator use was a month ago and everyt=
+hing was working fine and fast. I just have done the usual updates of Andro=
+id Studio and Java. And about Windows 10, I&#39;ve upgraded to this new &qu=
+ot;Creators Something Else&quot; version). I&#39;ve created new AVD&#39;s b=
+ut the problem continues.<br><br>Any...</div><br/><a href=3D"https://plus.g=
+oogle.com/_/notifications/emlink?emr=3D11563401428738077822&emid=3DCOCR2NqZ=
+y9MCFcyEUwodtl8M2Q&path=3D%2F100353592054013993902%2Fposts%2F2P2tQcjafKs&dt=
+=3D1493521648425&ub=3DSQUARE_SUBSCRIPTION" style=3D"background-color:#d44b3=
+8;border:solid 1px #dfdfdf;border-radius:3px;color:#fff;display:inline-bloc=
+k;font-family: Arial;font-size:13px;height:30px;line-height:30px;min-width:=
+54px;padding:1px 20px;text-align:center;text-decoration:none;white-space:no=
+wrap;">View post</a></td></tr></table></div></div><div style=3D"border-top:=
+solid 1px #dfdfdf;background-color:#fff; padding:30px;font-size:14px;line-h=
+eight:18px;border-radius:0 0 5px 5px">You're receiving this email because y=
+ou are subscribed to <a href=3D"https://plus.google.com/_/notifications/eml=
+ink?emr=3D11563401428738077822&emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&path=3D%2F=
+communities%2F109766100514206800627&dt=3D1493521648425&ub=3DSQUARE_SUBSCRIP=
+TION" style=3D"color:#3366CC;text-decoration:none">Udacity&#39;s Android De=
+veloper Nanodegree</a> on Google+.</div></div><div style=3D"padding-top:10p=
+x;color:#999;font:11px Arial;width:670px"><a href=3D"https://plus.google.co=
+m/_/notifications/emlink?emr=3D11563401428738077822&emid=3DCOCR2NqZy9MCFcyE=
+Uwodtl8M2Q&path=3D%2F100353592054013993902%2Fop%2Fmute&dt=3D1493521648425&u=
+b=3DSQUARE_SUBSCRIPTION" style=3D"color:#3366CC;text-decoration:none">Mute =
+M=C3=A1rcio Oliveira</a> to stop receiving notifications from him.  <a href=
+=3D"https://plus.google.com/_/notifications/emlink?emr=3D115634014287380778=
+22&emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&path=3D%2Fcommunities%2F10976610051420=
+6800627%3Fpromo%3Dnotifications&dt=3D1493521648425&ub=3DSQUARE_SUBSCRIPTION=
+" style=3D"color:#3366CC;text-decoration:none">Change</a> what notification=
+s you receive from this community. This notification was sent to shrijitbas=
+ak@gmail.com. Go to your  <a href=3D"https://plus.google.com/_/notification=
+s/emlink?emr=3D11563401428738077822&emid=3DCOCR2NqZy9MCFcyEUwodtl8M2Q&path=
+=3D%2Fsettings%2Fplus&dt=3D1493521648425&ub=3DSQUARE_SUBSCRIPTION" style=3D=
+"color:#3366CC;text-decoration:none">notification delivery settings</a> to =
+update your address. <a href=3D"https://notifications.google.com/unsubscrib=
+e/AJ7SsMl9nl3V6hnVsNp5a_QCaBwk2Lzllm4ptEYTU9g-tYfZxNyd-EcuChh6qMB7ielH-1FYM=
+4F1CVWfhkWB1X1ujZufC5ayVJpjRK-p1sQknpVagSr45WLChcJtDt6OrLZonW718T_cZI4jIpNm=
+v4xt7-oXi1CY2TFVU1Dq5J4jIXs1Eh-x5bs" style=3D"color:#3366CC;text-decoration=
+:none">Unsubscribe</a> from these emails.<br/>Google Inc., 1600 Amphitheatr=
+e Pkwy, Mountain View, CA 94043 USA</div></body>

@@ -1,0 +1,413 @@
+<body style=3D"-webkit-font-smoothing:antialiased; -webkit-text-size-adjus=
+t:none; width: 100%; height: 100%; margin:0; padding:0; background-color:#f=
+fffff; font-family: 'Helvetica Neue', 'Helvetica', Helvetica, Arial, sans-s=
+erif;font-weight:300;" bgcolor=3D"#ffffff">=20
+  <!-- Wrapper table for outlook 2000 / 2002 / 2003/ 2007 / 2010 / 2013 and=
+ Lotus notes 8 & 8.5 -->=20
+  <!--[if (gte mso 9)|(IE)]>
+=09=09<table width=3D"600" class=3D"body-wrapper" cellspacing=3D"0" align=
+=3D"center" cellpadding=3D"0">
+=09=09=09<tr>
+=09=09=09=09<td valign=3D"top" align=3D"center">
+=09=09<![endif]-->=20
+  <table width=3D"100%" class=3D"body-wrapper" cellspacing=3D"10" align=3D"=
+center" cellpadding=3D"0">=20
+   <tbody>
+    <tr>=20
+     <td valign=3D"top" align=3D"center">=20
+      <!-- =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D -->=20
+      <!-- HEADER -->=20
+      <!-- =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D -->=20
+      <table class=3D"head-wrap" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"header container" style=3D"display:block; max-width:6=
+00px; margin:0 auto; clear:both;">=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td valign=3D"middle" align=3D"left"> <font style=3D"font-size=
+:12px; font-family:Arial, Helvetica, sans-serif; color:#aaaaaa"> What's you=
+r wish today? </font> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table class=3D"head-wrap" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"header container" style=3D"display:block; max-width:6=
+00px; margin:0 auto; clear:both;">=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td valign=3D"middle" height=3D"50" align=3D"left" width=3D"50=
+%"> <a lname=3D"Head:Head:Head:genImg1:R2;C1" style=3D"text-decoration:none=
+;display:table;" href=3D"http://l.flipkart.com/t/click/H4sIAAAAAAAAAEWRzXKi=
+QBSF34W1RJofEbIZgSgQNUQwRDZU0yB_DSJNIzA17z44Vam5i1vn1vlW9_vN9IwKFgxiVCapYI6=
+ZBUPnnHVdoy6X-OWK86aEbfeCbtWyWyKco3JpisTa_Izpf57PvXHQ3G3IkURpXToOTbwbsRd8GB=
+udyhoY7L7MpSgCexjrRX4NY7jVwjMWDEdEVLIFXARjJNWbnTe9a-M-oFOZBEZx5FIOuIKu0JV89=
+1bU0jfN8eNIuqhBmGCAOOorYQ2udhaG2VnaH4bLDezoYO7ffTJmhcFfDndqDPld9l3tUa6koWe_=
+N2hrivzBbi-OZ-z1Iv46pmHw5YayZPUnAUwp0U601nfmW6OTbnq4bJKh-2hHSRu9c_Za9OI39xg=
+WJBJNL0Ayjr876fHpoXQwnREYNJp4_6TZlrLzrMtUbi9lL6wrznXy1cNVSgeY9IochUW-X6Xa_M=
+X57_nTAZT5a8JBlpMinhWBzLGKJAB2rawTAUBZ5CMwo_WMmgmM1f8rTWqrSoF64l_1JxLPCMnav=
+Mi7CBJY_kqfep8a5xJ1czvHiiU9-ncPjFpTjBcMnJsf6WzT3qob8-cvbPgn5SYCAAA=3D"> <im=
+g src=3D"https://img1a.flixcart.com/www/email/images/20150609-173157-logops=
+d__1_.png" style=3D"border:none;color:#818181;font-size:9px;display:table-c=
+ell; margin-right: 5px;"> </a> </td>=20
+             <td valign=3D"middle" height=3D"50" align=3D"right" width=3D"2=
+5%"> <a lname=3D"Head:Head:Head:genImg1:R2;C1" style=3D"text-decoration:non=
+e;display:table;" href=3D"http://l.flipkart.com/t/click/H4sIAAAAAAAAAEWRy5K=
+iQBBF_4W1tFC8lN5MgQ-QahEBod0YBfKShyAlAhPz74MT0TG5yLgZ90Ruzm-qo2R2RoWUTEUlzg=
+pqRj2nnBJSy_N58REXWZ3jB_kI7-WczMMiC_O5xrc6_BnNsyz3svqCw-bCtKYpco82DbxN4UFGt=
+UrXPgKAfKNCFmoE8-7Y3xb_WN70FGr8FgkHn6WzmNuOzZiFL9x-J81GI1moRM1h-tQ4kfcSYUCc=
+EjGqpOhmfpIYfW-k2sEhUSKiiOzz0eYAGJfuykH9knO6rC9fnonsZwOv7rDvS2elGjW4M34QGPo=
+G1pzVxXkHxbEfugQrCai2WL0JYJfQgm9fUjFfOUfi7izBUDeojhHqzJ7PYxNZgzgEX6V0CrCXKp=
+Uq3cs6zptuVM6S_2S9ExeF63WltyPAW1CdhJevw3wRkXP6dR4gsTU-Ns5rZeGcVAScyyKouJUgu=
+vvdboAWhJOA7C0DSyCOGEwzQgBonpUYeilwLL1YLiKOxRIPAnZCqwnVInyV_68kqvQyYeUj-FTf=
+yHVC2vSR3TIS4Bbnv5K357fPqQzJ1E6xpNsu_Hf3lFw9i2JG4an5sU_Xj3t5p_78BSuSW8UvAgA=
+A"> <img src=3D"https://img1a.flixcart.com/www/email/images/20150609-174458=
+-app.png" style=3D"border:none;color:#818181;font-size:9px;display:table-ce=
+ll; margin-right: 5px;"> <font face=3D"Arial, sans-serif" color=3D"#666666"=
+ style=3D"display:table-cell; font-weight: bold; vertical-align:middle; tex=
+t-align:left; text-transform:uppercase;font-size: 10px;">Mobile App</font> =
+</a> </td>=20
+             <td valign=3D"middle" height=3D"50" align=3D"right" width=3D"2=
+%"> <a lname=3D"Head:Head:Head:genImg1:R2;C1" style=3D"text-decoration:non=
+e;display:table;" href=3D"http://l.flipkart.com/t/click/H4sIAAAAAAAAAEWSW3O=
+iQBBG_wvPTgSRcMnLEpQMKCEICPHFGhAQZ7gON93a_764Vanth67u-s5Tn_7NDIzCLZiYUZikQD=
+lhFkw_z9euq5XlkrykJK8xaruXuCqW3TImeYyXcE0N9adg4Dj-eWOpd_3MUtt-5Vt6jQKdBCqrO=
+YWPvG7ch7ty53w2gt2496qY4Bket1acGQORz55gpt_iB1e-C-P0PR6cHStuBU12eX646NDq-sob=
+PCiFmQ405wJHQ3jNphVObpqsNevjqYoCV2jQvknrnpai2YDokQ6Jd9rDnPo-9qh5z03whcdMa0Q=
+1gW1XW3p2o9egpOlUZq2eBkRWT7a1VhO-7rVmHHZpODjHdsO-16eyMlyLxM3gC49HZPvhxLnYPe=
+xbkprB1Sy0kOJ6yOpbZEYRzKdQZqV4a2ADgb4LU7dB0gOrQfL1UU12xalBvZEG4mAVmELWica5_=
+3xAAezMbfl6GbfzUWcN-VMJEldpwiLACtEKrDmRBbLAc0CSpYTnkLheRdyMljMKE3RR_rcsKY0i=
+45TD6k17IpcZodc2v-VdhCjCv7Kn7afVOYy7OZ3HAtAh_rdPjFL2hCwYNCc_PwDqtioq5s9f2QZ=
+VrTUCAAA=3D"> <img src=3D"https://img1a.flixcart.com/www/email/images/20150=
+609-174426-gift.png" style=3D"border:none;color:#818181;font-size:9px;displ=
+ay:table-cell; margin-right: 5px;"> <font face=3D"Arial, sans-serif" color=
+=3D"#666666" style=3D"display:table-cell; font-weight: bold; vertical-align=
+:middle; text-align:left; text-transform:uppercase;font-size: 10px;">Gift V=
+oucher</font> </a> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table class=3D"menu-wrap" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"container" style=3D"background: #ffffff; color:#FFFFF=
+F; display:block; line-height:20px; font-weight:600; max-width:600px; margi=
+n:0 auto; clear:both;" bgcolor=3D"#ffffff">=20
+          <!-- Mobiles and Apparels -->=20
+          <div>=20
+           <table width=3D"100%" style=3D"background-color:#333333;" cellsp=
+acing=3D"0" cellpadding=3D"5" border=3D"0" bgcolor=3D"#333333">=20
+            <tbody>
+             <tr>=20
+              <td width=3D"21%" align=3D"center"> <a style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight:400;line-height=
+: 24px;text-align: center;font-size: 12px; color: #FFFFFF; letter-spacing:0=
+.2px; text-transform:uppercase; text-decoration:none;" href=3D"http://l.fli=
+pkart.com/t/click/H4sIAAAAAAAAADWRSZOiQBCF_wtnq2UpAT2NCwgK4gLScCGKEtkFWUqwY=
+_77lBPReXkv473IQ34_DGEW3ITBzIKJSpQWzITpqU-6rl5Mp8XXvUjrHDXdF67KaTfFRYrzqQZb=
+ffk7mns6OUAxV2s1YNvjY-epK5WN9ahONqOfVnFEbD-3nFJFy57besGbZM_4MbftN2lGIOIxtPR=
+c5F_5qXNWFz_RJSWM72QXNLuDZpM6MI_7RpVk5SzCM_ZHHxsz7q7qIzyYZmsg5YBj_jYsHytDhs=
+jdOk9-nJP62ESiFXpDL3D2twiNG2GlXgPt5ZlBJb-gxKp45BNPuyZL910OvtpkQ7s-h-ZoByjYa=
+Bu3CpyDvQy3621W4msfB4p4JkMw1pUnGKhdO1a-b8O4ohebFIzynrtENVcERSKz_PgOvaeIRMkM=
+pd2VB1punfu1jx0yRLHhpv33cXD1W6pCgX2R7ChIryBWag_C4f5S6GMpivSDBUn8PWIRYGchDyA=
+nsWA-Ezggz-VI4JAE-ZCj1QetAqo3qm3SpFnahahF-Z_4g_WDj4a4oym1JWgJ_r8PzOLRF8WEQT=
+T5hQ3qpior5u8_5KgjJh4CAAA=3D"> Mobiles </a> </td>=20
+              <td width=3D"1%" style=3D"color:#efefef;">&nbsp;|&nbsp;</td>=
+=20
+              <td width=3D"25%" align=3D"center"> <a style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight:400;line-height=
+: 24px;text-align: center;font-size: 12px; color: #FFFFFF; letter-spacing:0=
+.2px; text-transform:uppercase; text-decoration:none;" href=3D"http://l.fli=
+pkart.com/t/click/H4sIAAAAAAAAADWRybKiQBRE_4W1PKsYH66aSUFQpFWmDVGUoiWTzGJH_=
+3tjR7y7yczIXN3zhxqoFVxQmFpR1wKRnFpQ_ezvXfdcLZf5V5qTZ4aa7gtXxbJb4pzgbGlwrSn_=
+nOG7p3Os7eRpE4PWOSC2Od66xgKBHLo4IzfXaPKgcNQJHFEF_N-FGXPCk9vZxpSiE2SkdhD1B4p=
+NT5bCca-bh2R3JnyI3RdJbL7MrzXYHIZUuWuYz06kBOd3KN7YyFIEOKo1VmzIjnLZgMAug0fHEw=
+k6R9XyAW-3TIKkgfSwg77YGz2XClO9HT3VhntjjEJ3fVJ5wdV4IYKT6L9kczc2UnSI3_IGa0yr3=
+MFeLkM9EZKH0Q75JLAcA5o6grVY6Wt7u7HV2PJ7zyuieDhC_VzA6bL2uu0u66fcsjLaGR0pq4RY=
+G7em-9AtLXhe5GOtREHqgS7fOwiQNWfGb0OhRyzso1G5y_r82BkF-WBBIpNeAaIBnzA0B0VASzw=
+L6W_p-8pCJHJMAudpOU_pWS-ztveGPEiXoBZlv24frB98c4m7uZ1tQbcD_p9f1Krs83xBobn5gU=
+0_m6qoqL__ALpDpFUeAgAA"> Lifestyle </a> </td>=20
+              <td width=3D"1%" style=3D"color:#efefef;">&nbsp;|&nbsp;</td>=
+=20
+              <td width=3D"21%" align=3D"center"> <a style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight:400;line-height=
+: 24px;text-align: center;font-size: 12px; color: #FFFFFF; letter-spacing:0=
+.2px; text-transform:uppercase; text-decoration:none;" href=3D"http://l.fli=
+pkart.com/t/click/H4sIAAAAAAAAADWRyZKiQBRF_4W1WZLKpKtGoBSUkkFKdENAkkhCMsikU=
+tH_3tgR9Tb3vjh3d36YgVnDGYOYNYOLkFBmxvRTT7uuXs_n9COhpM7DpvtAVTHv5ogSlM93XKvL=
+v7c72ycPaOZG2QZsa5WH6KD3N0X51iw8yo42Qs7wPYHadeeec98CRhC_HEHCJmuyAcY4yTIHXss=
+ze2mNe6r5db59XmqRPV6EzIlpcW6cjP16VKg7GqZQx6oVYslEhUZ3S1fe9QtegaJ8O_CO2HhjuL=
+WWHq_rdeS0KoHDQQhege9fxULsox40ZlVuPH3w2NOpUUh_8RNXHrEbIwxTx1VNw3KzAElqKcPKf=
+hyzlGgbc7XlYKSKqKfga7Xni5br7g_Dfsn351Fp7_T6_RkPtU3UMbniKl-yvXu-Gk9SH0gOhi71=
+TxxwDEXTUyccUmmzrz5pvEq4UQ8lcb8vb2XQop24eZq3wBY02ZblSQR5SwnFRYLZELB8tAAcFFm=
+w4pcQSCsJL2EocosITtNymoIp4ynbtCEZ6aKwDfM_t7fUt7wJom6iUy1AO6D__5NZlz2lMyacyK=
+9qUDdVUTF__wGrCxKFHAIAAA=3D=3D"> Home </a> </td>=20
+              <td width=3D"1%" style=3D"color:#efefef;">&nbsp;|&nbsp;</td>=
+=20
+              <td width=3D"30%" align=3D"center"> <a style=3D"font-family: =
+'Helvetica Neue', Helvetica, Arial, sans-serif; font-weight:400;line-height=
+: 24px;text-align: center;font-size: 12px; color: #FFFFFF; letter-spacing:0=
+.2px; text-transform:uppercase; text-decoration:none;" href=3D"http://l.fli=
+pkart.com/t/click/H4sIAAAAAAAAADWRQXOiQBSE_wtnJzKICJ4WI1lUVhARhAs1IOAIAhlGB=
+kztf8-YqrxL96vuU39fQi8s4URIhaWQ3RGuhInw4P5KabucTqu3vMJtiQh9S5v7lE7TCqfl1JS7=
+jf57ZnDwxHj9T39-9GJnO2hGjgUlO3jWw0Na4uJgkspn5ipCWxgEnsPc2SB6LKyGjmqOpWqS07n=
+uxfZ3hV0Y5e34DDb1JvYUoz12uz2KYbKNtoDof12FWe3zrDDlZJ27ndGTzNg3ynb-iO0QI7j_JP=
+k6r1ju72kyp9c0vrBYK6TgwEQDN97nCdyMG5YV3VwMHh3ZKF9Ly92o0jMe2arWNXJg0lCMjR6Yb=
+fo-zMFJzbS10_UsOMFEF4m_oeH5gnqrxQunltrIj-ixhn4yeIlF25HIPcFaH-3sfAS1axgRHY75=
+rXhHaj1qMzp-hHVWPu6-GpZ7h6h6wU5IDdiKL8m3xy8OaCHlmYiAOE8kIMOFCLT5DAJVU7MZRAt=
+ZSiCv1rwKuF64dleCb5gmqEPln-LF8cWLhynlKbd30PXpzz8Iy_pRVRMB8eSXLmhJc2-E_9-GKP=
+aTDwIAAA=3D=3D"> Offer&nbsp;&nbsp;Zone </a> </td>=20
+             </tr>=20
+            </tbody>
+           </table>=20
+          </div>=20
+          <div class=3D"clear" style=3D"display: block; clear: both;"></div=
+> </td>
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table class=3D"body-wrap" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0" border=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"container" style=3D"background: #ffffff; color:#fffff=
+f; display:block; line-height:20px; font-weight:300; max-width:600px; margi=
+n:0 auto; clear:both;" bgcolor=3D"#ffffff">=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=
+=3D"0" align=3D"center" style=3D"font-family:Arial,serif;font-size:12px;fon=
+t-weight:300;border-bottom-width:1px;">=20
+           <tbody>
+            <tr>=20
+             <td width=3D"100%">=20
+              <!--Block of intro copy --> <a lname=3D"CMC2416SWT14:NIL:AD:p=
+rodImg1:R1;C1" style=3D"display:block;border:none;" href=3D"http://l.flipka=
+rt.com/t/click/H4sIAAAAAAAAADWSW4-iQBBG_wvPw0i3gMi-LAtyGVRAENQX0wJCc7O5tAxu=
+9r8vbrL1VJXvpJJKnd_Mk5HBBxMzMpPWCFfMB0PnPh8GIi8W1ee9wqRE3fAZP-rFsIgrHJcLk-8=
+t5X-Z4WGMRG2nvNa6eJhszJHOoBdOR6GJ2zCgTy8tDxee-H1uKx5tdXJ9iRodHIhhdHW30gkKV-=
+f73FjQ0B3BUnHfBEbwGIRzxCUBSqXGyn1QJ-3KOpD8Hh7V0ailY3eBamlGBUp1wg-j43AUsmcF5=
+XhZhUc_vUWCUJCp_Kr60ToWllWm8eRf9eW0WeO-XdISgDwYAdicRX5wR_HZdcjoC-dM7fzVJQ9J=
+vAFjB6St5mBzh_Rk1Q1H1XnFRBdFmKEl5U7talzPJ1Adgja0WXUK75sRZgpHi-OOH8iDJO5e0Yw=
+WYeKCk4TAt47DksCE1C0X8d7Lllo2XRsn293sfTGyPNeuRi139dHus-LrFQ1WJinNOb_FcXsIfZ=
+02Iqgsob-ahRUc7h3dhmW9gc3UBdgTy20PPP_L5ElP2yylj0AyvH7EedtMdfbU6norxBPrDhwBC=
+ltqfMCyrHvcZ2Z96Vzu1_zR2QH89gGt4D3lEMsJN8jyYMWxa2EJWGktpUuAVjy8gRltZlTdqZAH=
+oh8FgJf31lZWNJl0j8SqMyAfwA_1DSYz2OcdLvBwQz0qf2Zv4d5izWE8zOnc1mz_jP_N34zc0Kr=
+6YNCc_NeQnbfWD-bPXwXDs1m4AgAA" target=3D"_blank"> <img alt=3D"WOW offer tim=
+e" src=3D"https://img1a.flixcart.com/www/email/images/20170430-003302-600x6=
+00__12_.jpg" style=3D"background-color:#F6F2E9; border:none; color:#818181;=
+ display:block; font-size:9px; max-width:100%;" width=3D"100%"> </a> </td>=
+=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <!-- =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D -->=20
+      <!-- Footer Text -->=20
+      <!-- =3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D -->=20
+      <table class=3D"head-wrap" width=3D"100%" cellspacing=3D"0" cellpaddi=
+ng=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"header container" style=3D"display:block; max-width:6=
+00px; margin:5px auto; clear:both;">=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">=20
+           <tbody>
+            <tr>=20
+             <td valign=3D"middle" height=3D"50" align=3D"left" width=3D"15=
+%;min-width: 92px;"> <a lname=3D"Head:Head:Head:genImg1:R2;C1" style=3D"tex=
+t-decoration:none;display:table;" href=3D"http://l.flipkart.com/t/click/H4s=
+IAAAAAAAAAEWRTZOaQBRF_wtrGaEFEbJJiyIo4AgiHTdWg40w0KDNh0gq_z2Yqqm8xat7657d-c=
+11nCZOuJjTOEJxVnATrh1z2jR3bTotPpIiu-eYNR9xRafNNC6yOJ-aUm3B7zPDw1G4rBw4GJ1Q7=
+_fzGatvUWgUIRT0Aw18DwA72B2bnSEG5WmbOtbiKvQGWuyfDnqRC5O3yS-2Vzb-0NNnTmnQUHcw=
+HvkldXWE8WOekqJOZG8VWktTaCk6tgepzzfMB9Q5XUN6bBmLIsy_-K64EDlFvD9s7OWShcMaVw_=
+y5ZomRMfTqpfV7pzXuZvaQGEXp9aVygBVZbvPEppAdZ8BMF_UtRcmPog25n0D6uKpigLJkFDakm=
+X5JWwpOO-iU3QO01WpR1V-T4QHm3nnCLVyaAwkXq-RlQ-8tOOR2Peldcshac6Zs33Bxkdy4uVoX=
+TyL-bZrPwcFqFC1faP1ZvAA4Sgge8vACkiIgHlBjgAviYrAq_JM5BfqgsxErEggEke0HFGT4Kv2=
+_91IadGbqHngh_5GriNSpyz7ypoI1zj_eXt7fvscx7gZ1zFSvu7if73ntLItigmHx-XbPn9nFa2=
+4P38BFBdAJi8CAAA=3D"> <img height=3D"24" src=3D"https://img1a.flixcart.com/=
+www/linchpin/fk-cp-zion/img/fa_8b4b59.png" style=3D"border:none;color:#8181=
+81;font-size:9px;display:table-cell;min-width:92px;"> </a> </td>=20
+             <td valign=3D"middle" height=3D"50" align=3D"left" width=3D"40=
+%"> <font face=3D"Arial, sans-serif" style=3D"display:table-cell; font-weig=
+ht: 500; vertical-align:middle; text-align:left;font-size: 14px;padding-lef=
+t: 10px;font-style: italic; color: #717171;">Quality Products. Delivered Fa=
+st.</font> </td>=20
+             <td valign=3D"middle" height=3D"50" align=3D"left" width=3D"20=
+%"> <font face=3D"Arial, sans-serif" style=3D"display:table-cell; font-weig=
+ht: 500; vertical-align:middle; text-align:left;font-size: 12px;padding-lef=
+t: 5px;font-style: italic; color: #717171;"><span style=3D"font-weight:900;=
+color:#16be48;">=E2=9C=93</span> 6 Quality Checks</font> </td>=20
+             <td valign=3D"middle" height=3D"50" align=3D"left" width=3D"25=
+%"> <font face=3D"Arial, sans-serif" style=3D"display:table-cell; font-weig=
+ht: 500; vertical-align:middle; text-align:left;font-size: 12px;padding-lef=
+t: 5px;font-style: italic; color: #717171;"><span style=3D"font-weight:900;=
+color:#16be48;">=E2=9C=93</span> Fast &amp; Free Delivery <sup><span style=
+=3D"font-style: normal; color: #000;"><b>=E2=80=A0</b></span></sup></font> =
+</td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>=20
+      <table class=3D"footer-wrap" width=3D"100%" cellspacing=3D"0" cellpad=
+ding=3D"0">=20
+       <tbody>
+        <tr>=20
+         <td></td>=20
+         <td class=3D"container" style=3D"border-top:3px solid #333333; dis=
+play:block; max-width:600px; margin:0 auto; clear:both;">=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" style=3D"font-family:Arial,serif;font-size:12px;font-weight:300=
+;">=20
+           <tbody>
+            <tr>=20
+             <td></td>=20
+             <td valign=3D"top" width=3D"100%"> <span style=3D"float:right;=
+color: #414041;"><sup><b>=E2=80=A0</b></sup> on orders above Rs.500</span> =
+</td>=20
+             <td></td>=20
+            </tr>=20
+           </tbody>
+          </table>=20
+          <table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" align=
+=3D"center" style=3D"font-family:Arial,serif;font-size:12px;font-weight:300=
+;">=20
+           <tbody>
+            <tr>=20
+             <td align=3D"center" valign=3D"top" width=3D"100%"> <a lname=
+=3D"Foot:Foot:Foot:genImg3:R1;C1" style=3D"border:0; text-decoration:none;"=
+ href=3D"http://l.flipkart.com/t/click/H4sIAAAAAAAAAEWRy5KiQBBF_4W11RYPKWE2=
+wzOEVkFRHNwQJS9pqgB5KUzMvw9ORMfkIuNm3LPK85sZGJldMBEjMwnFOWEWTD_ne9fV8nJJPlK=
+S1wVuuo-oostuGZE8KpYbobWU79lcDodzqO-U0Qxh6zgi3xyyrsnHWsFGfvpULRR9wtEGRBPF4w=
+O-LgZwQKDtDmpvfnE1SEuCxpcxDkKRGQ017LvTXAsj9Dco7F-5s1-VJMaZXgmsiJQAPxFEcb42Y=
+w2P7vZ29P096opoJfmikEoC6yRbD7t7r67tfNSDp_ZFn9fD9bQW4v2Zs1Q90CQ3CKdJuWDQbkVj=
+gpqgJFP1S3fagYQNbz3OPNHR9syq2qp4EJOjfXK9jWu4exT0tJd8OhaeN9nbbpruUVj7JneHrIf=
+ckmy9xLZ3dHKkuhHjU8k9qWrDoDv2OxurAUwHybK11GBHVbTS16Z3I3cAj6LnBHX-5vz__O0CIy=
+5NIAZwdeOAwCIIpBXPgrW0TngWI4G7sTNazqhZVZ38f2VJadGMl4_sD-2NxDPS3pv8K-9uuMXFz=
+-yt-a1zLqNubudIQTtE_-4XI5c9IQsGz823fFA3Fa2YP38Boq6c_i4CAAA=3D"> <img src=3D=
+"https://img1a.flixcart.com/www/email/images/20150302-161344-flipkartFacebo=
+ok.gif" style=3D"vertical-align:middle; border:none;color:#818181;font-size=
+:9px;"> </a> <a lname=3D"Foot:Foot:Foot:genTxt4:R1;C2" style=3D"border:0; t=
+ext-decoration:none;" href=3D"http://l.flipkart.com/t/click/H4sIAAAAAAAAAEW=
+RS7OaQBCF_wtrucpLgWyiovIyPAQUNtSAoCODAzIgmsp_z5iqW-lF1-k6Z9F1vt_MwKjchMkZlS=
+lqABEzYXqqr4Q06nSKvkoEmwo8yFeO6ymZ5gjm1VQXO2P5PfrR88JB81brbSp3RVG3oEGIbC5VG=
+1ab56WNRO08JEHW8d3YHw7R3k8X5BZqI7Zldz9KnZCl57O-CY-BdzSC1TUk1ySYnZzU5Nu5vXzp=
+cXLzYwPtnafjxtEpk9oV6FESJacja2EbKnBbuDDbpru7kppGXUnzp2_9IrcUYcewHeXFx8OuUtj=
+a4AykxZZN3tL7vXTelpO3F6KvwVJL5EzLyYBSezBwIeiaZJo-RCHvVk34elim7o8RaB1T0rmDWY=
+AmlhDhFoGCBt6vBSfR9xzRI4E-WsPjUPZKT7RzmfH5ZjTGTLPxTbZGMXVr33MLI5u7eHRhma_YU=
+jD313g3W9E2af_wwwIs-LKYAXYmZTwrcosZq0gCx8qKXAgcWIh8xtHonUa3GBP1_7oU92Akoupz=
+P9Y8jZxppLs-4A2SDHSg-nn5YP7gpGZOqEtlzXZD_u8eGfXeIzRhAHW-4bPNA9eY-fMXrt2MYC4=
+CAAA=3D"> <img src=3D"https://img1a.flixcart.com/www/email/images/20150302-=
+161353-flipkartTwitter.gif" style=3D"vertical-align:middle;border:none;colo=
+r:#818181;font-size:9px;"> </a> <a lname=3D"Foot:Foot:Foot:genTxt5:R1;C2" s=
+tyle=3D"border:0; text-decoration:none;" href=3D"http://l.flipkart.com/t/cl=
+ick/H4sIAAAAAAAAAEWRy5KiQBBF_4W1tFCAPGYzPBRUkAZFlA1RIAINBYRVINIx_z44ER2Ti4y=
+bcc8qzzc1UAq7oFJKoTIEy5paUP2cC0I6ZbmsP-512VXwQT7SFi3JMq3LtFpaPN6qP2OFnhcMhq=
+fpm1jCWYY6h8gN3Gm7oNvucm09jCZJolPSAjz2xyNE21hmxr0mBq_JmKQsOQCOOfmCZfee7uv8A=
+Em47f1e5PwD8EbRmlQaIZbLTTVzV7cbq8mjf189OtCRMggutVyvpoHh7BFbrPQidnTclMUhFNfX=
+YZ88NcO00OTL3sboo8qD7ouB8RhbhSqFgbQhKu86ku5ODDDZ6GbLl97H0-A26Lp_GDAiWZdGydm=
+pz095LzCVzlZDJZ4LFN6jxCuDWDiZNAG781CHF_LEYbi7SoUNYtyu6bjm_cpweufcuqr9ifB9sP=
+nGKT_zVRmsnPj5xcW5qcP2hRN1PT9zfn_5VgFFcM8YSDNCAmieFRlaFjiWlmQp41go8iBhZ7SZ0=
+U3bEuX_yrPmNBJB8dlfOpiR24zg4lF-lSSBGFa_87flt825TMnczhHReEj_3SOlNH1dLyg4Nz_u=
+6e7Ropb68xfcZmKLLQIAAA=3D=3D"> <img src=3D"https://img1a.flixcart.com/www/e=
+mail/images/20150302-161334-flipkartInstagram.gif" style=3D"vertical-align:=
+middle;border:none;color:#818181;font-size:9px;"> </a> </td>=20
+            </tr>=20
+           </tbody>
+          </table>=20
+          <table width=3D"100%" cellspacing=3D"5" cellpadding=3D"0" align=
+=3D"center" style=3D"font-family:Arial,serif;font-size:12px;font-weight:300=
+;">=20
+           <tbody>
+            <tr>=20
+             <td align=3D"center" valign=3D"top" width=3D"100%"> <font face=
+=3D"Arial, sans-serif" color=3D"#333333" size=3D"-1"> You may set your comm=
+unication preferences <font style=3D"font-size:12px; font-family:Arial, Hel=
+vetica, sans-serif; color:#aaaaaa"> <a lname=3D"" href=3D"http://l.flipkart=
+.com/t/click/H4sIAAAAAAAAADWSy7KiQBBE_4W1XBsEAVcDiA-UAYaXsiEaEEGedreA3Jh_H5=
+yIW5vMisxVnfqmemrDLKiE2lC3GhYVtaBes88J6TbLZfWVVUVXQkS-krZekmVSFUm5PHD4KP_MI=
+bA9L1INxdlFAGdScRz4tsP6Eatua3DaeBjL0I2nJsBCOkKgPKKXlO4ayWluIn0BkhmLgDND5QxU=
+Xda1K9KL3jkOAjuQmmt6TCPbF_QbFqE5qA_PwsawzUmUxiSo8zKGlz-CW02kLOohPgLrwYSv9R0=
+i6YTB2URs-B472nyvjCl4DCLdXCWWmZIeNjve3b4Dnj82MI2triVDppBqEHo_cqBp7TPfv5evxn=
+uu2wnZe3KTHRPtT7pZHezTfCuYSRcxvJ5tny1C20lzod0jEd37JHumOJsiTS7sQDM8TzHNUbMcY=
+2xKGwQqaN-DkYMdvW85nn24MDnISec0QHGz4vn-rV31Q_7sEZF9eaq2IiOhyl0_wdQ7Z5rjVMtd=
+K-QSqL5sy_IMrPjAgwKb3QCkAR-zNMcIgJb4FUOLknhbMVDg2JiZq81cnSWdBeeoeBQkhhiWv-4=
+f9h_Gc5iQOZ1tTeM--b-P1KZ5VdWCgnPy8xF0h9q6pf7-AwrRSvNDAgAA">here</a> </font>=
+ </font> </td>=20
+            </tr>=20
+            <tr>=20
+             <td align=3D"center" valign=3D"top" width=3D"100%"> <font face=
+=3D"Arial, sans-serif" color=3D"#333333" size=3D"-1"> We hope you enjoy rec=
+eiving news and special offer emails from Flipkart.com. If you would prefer=
+ not receiving our emails, please <a href=3D"http://l.flipkart.com/t/click/=
+H4sIAAAAAAAAADWSSZOiQBCF_wtnaauEEvA0LNKKDe0KyIUo9sJiERDBjvnvgxPReXkv473Iy5c=
+_TM-s4IwJmRUTF5hQZsY8Jp91Xb2az-lHQkl9w033EVbFvJuHlIS3-YZvt_LvbJyDC3zVVM56D9=
+okNtYDqhrhNj53RPYGg3yR7Vhw5enRCtGAgUL8hxTppXQqY1Hs62XIIQTCk9IA1VMvqmnfjkmz5=
+m2EHSGuBd-6X_TTyDX7T62VK6jxmrlGQc-5gZ7VnrOgIBaX4VdgDa2VeiVatq4-6COk8bItbc9s=
+roD7HBwgOflTZMvrcgFfYY9LhF6be7tTz3uvKdycjbJI6cun0FP_fDemm_f8aITftQ2PnJNamFd=
+ukWNdTjiJDuR6r6kIe4mmlu5go1MMZ5PI0M0jyKUo76jot5lO1CHVSLZVsn22U0pLLdRCxvmXY2=
+ff8rgDL41gy6pEThlLrTsv0-4x6JFBTJk8oY2Eg34w0cHfu024S1ynsPmjz22UYYzNBhw1mq4nA=
+BMy8saHhUUSA8wCFCxYHgqAlRAHWVESYw5igV8EcKqWU5WdNJq0zRqSky7ALb79Sd_435inMOym=
+dLIF2_bh_31gVuWD0hmDp-T3Kdi6qYqK-fsPc_78zkYCAAA=3D">click here</a> to unsub=
+scribe. <font style=3D"font-size:12px; font-family:Arial, Helvetica, sans-s=
+erif; color:#aaaaaa"> </font> </font> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+         <td></td>=20
+        </tr>=20
+       </tbody>
+      </table>
+      <!-- /FOOTER --> </td>=20
+    </tr>=20
+   </tbody>
+  </table>=20
+  <!--[if (gte mso 9)|(IE)]>
+=09=09=09=09</td>
+=09=09=09</tr>
+=09=09</table>
+=09=09<![endif]-->=20
+  <img style=3D"width:1px;height:1px;" src=3D"http://l.flipkart.com/t/open/=
+H4sIAAAAAAAAAHWQS0_DMBCE_4sPPTUPJw55SBFw6KESQYID18jYTmrata3EaYoQ_52txQ162xm=
+PP3vni5xJQ7dEkIYo4PpEtmTB-eC9a5JEw1jyeDjpi-CTj4WFZF3XJCTxkI9qTrKUFmmRpRFlLC=
+vyyE9cHGNnxns-DFq2uy7qHvd5-VR16fPry1tdbRYPPSipF2gDKhizXSahWjdZsN0uWIKD43o0t=
+xjCGq-Mb61TZiPA4WuB1_9C-r_3cD-N-1U1E4rLWil2x-qBVowW74zneUqHLC8lxgzGruA9jKgk=
+qg97MA_SqmsPaAmPHo4QzWeBmqPEqtwRq4rkAvAZQhe0__nH9w-YfNwrewEAAA">=20
+  <img style=3D"width:1px;height:1px;" src=3D"http://l.flipkart.com/t/open/=
+H4sIAAAAAAAAAB2MQQ7CIBBF7zJrxgBtQ8vKqwxIFQvSFNqYGO_u1N37eS__AwdYJcCDhZApJhA=
+QTyaj5yAJ5eA09spInIZO4TiNoVNkeu0UpzdO62OLz9gcVVqu9_Pj4ktm6Rtbxoz18P_9BvvaUx=
+JAbOYU14W2hutWcoHvD1FZQ5aLAAAA">=20
+</body>
